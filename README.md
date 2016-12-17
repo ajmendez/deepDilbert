@@ -1,2 +1,2 @@
-# deepDilbert
-Dilbert travels to a GAN.
+# ganComics
+Dilbert, Garfield, and friends travel though a GAN.
